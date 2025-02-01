@@ -1,4 +1,4 @@
-# Black-History-Month
+# Black History Month
 
 https://tuskegeeairmen.org
 Tuskegee Airmen
