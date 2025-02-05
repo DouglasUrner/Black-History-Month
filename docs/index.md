@@ -1,5 +1,14 @@
 # Black History Month
 
+A small act of defiance as the federal governmant of the US tries to erase the contributions of Black Americans -- and so many others.
+
+I've been taking this opportunity to learn more about bits of Black history that I knew enough to search up on the web, but not enough to really say much about without some research. So, I've been learning some things. Did you know that:
+
+* The ambulances that we take for granted, stocked with life saving equipment and medications and staffed with highly trained paramedics or EMTs had their origins in the [Freedom House Ambulance Service](2025/02.md) in Pittsburgh, Pennsylvania.
+* The WIC program which provides health and nutrition support to women and their children who are living in poverty had it's roots in the Black Panther Party's Service to the People Programs.
+
+The struggles of Black Americans to uplift their community have lifted us all.
+
 |  |                                                    |                                                                 |
 |--|----------------------------------------------------|-----------------------------------------------------------------|
 | 1| [Marsha P. Johnson](2025/01.md)                    | Drag queen in the vanguard of the Stonewall rebellion           |
