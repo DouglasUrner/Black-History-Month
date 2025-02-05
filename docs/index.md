@@ -1,6 +1,6 @@
 # Black History Month
 
-A small act of defiance as the federal governmant of the US tries to erase the contributions of Black Americans -- and so many others.
+A small act of defiance as the federal government of the US tries to erase the contributions of Black Americans -- and so many others.
 
 I've been taking this opportunity to learn more about bits of Black history that I knew enough to search up on the web, but not enough to really say much about without some research. So, I've been learning some things. Did you know that:
 
