@@ -16,7 +16,7 @@ The struggles of Black Americans to uplift their community have lifted us all.
 | 3| [The 15th Amendment](2025/03.md)                   | Guaranteed the right to vote regardless of race                 |
 | 4| [Gladys West](2025/04.md)                          | Computer scientist & mathematician who helped to develop GPS    |
 | 5| [Breakfast for Children Program](2025/05.md)       | The forerunner of WIC |
-| 6| [](2025/06.md) ||
+| 6| [Oliver Law](2025/06.md)                           | Premature anti-fascist & Abraham Lincoln Brigade commander. |
 | 7| [](2025/07.md) ||
 | 8| [](2025/08.md) ||
 | 9| [](2025/09.md) ||
