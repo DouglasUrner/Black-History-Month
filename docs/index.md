@@ -15,8 +15,8 @@ The struggles of Black Americans to uplift their community have lifted us all.
 | 2| [Freedom House Ambulance Service](2025/02.md)      | First paramedic staffed ambulance service in the US             |
 | 3| [The 15th Amendment](2025/03.md)                   | Guaranteed the right to vote regardless of race                 |
 | 4| [Gladys West](2025/04.md)                          | Computer scientist & mathematician who helped to develop GPS    |
-| 5| [Breakfast for Children Program](2025/05.md)       | The forerunner of WIC |
-| 6| [Oliver Law](2025/06.md)                           | Premature anti-fascist & Abraham Lincoln Brigade commander. |
-| 7| [](2025/07.md) ||
+| 5| [Breakfast for Children Program](2025/05.md)       | The forerunner of WIC                                           |
+| 6| [Oliver Law](2025/06.md)                           | Premature anti-fascist & Abraham Lincoln Brigade commander      |
+| 7| [Angela Davis](2025/07.md)                         | Scholar, agitation, organizer                                   |
 | 8| [](2025/08.md) ||
 | 9| [](2025/09.md) ||
