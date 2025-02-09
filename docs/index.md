@@ -19,4 +19,4 @@ The struggles of Black Americans to uplift their community have lifted us all.
 | 6| [Oliver Law](2025/06.md)                           | Premature anti-fascist & Abraham Lincoln Brigade commander      |
 | 7| [Angela Davis](2025/07.md)                         | Scholar, agitation, organizer                                   |
 | 8| [](2025/08.md) ||
-| 9| [](2025/09.md) ||
+| 9| [Bernice Regan](2025/09.md)                        ||
