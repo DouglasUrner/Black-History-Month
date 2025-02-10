@@ -18,5 +18,5 @@ The struggles of Black Americans to uplift their community have lifted us all.
 | 5| [Breakfast for Children Program](2025/05.md)       | The forerunner of WIC                                           |
 | 6| [Oliver Law](2025/06.md)                           | Premature anti-fascist & Abraham Lincoln Brigade commander      |
 | 7| [Angela Davis](2025/07.md)                         | Scholar, agitation, organizer                                   |
-| 8| [](2025/08.md) ||
+| 8| [The Sit-In Movement](2025/08.md)                  | The beginnings of the non-violent Civil Rights Movement         |
 | 9| [Bernice Regan](2025/09.md)                        ||
